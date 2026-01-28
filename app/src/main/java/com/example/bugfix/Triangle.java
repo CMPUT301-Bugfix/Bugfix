@@ -1,4 +1,5 @@
 package com.example.bugfix;
 
-public class Triangle {
+public class Triangle extends Shape {
+    public int sides;
 }
