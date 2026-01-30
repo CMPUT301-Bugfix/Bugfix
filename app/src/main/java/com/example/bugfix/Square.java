@@ -1,6 +1,6 @@
 package com.example.bugfix;
 
-public class Square {
+public class Square extends Shape {
     private int area;
 
     public Square(int x, int y, int area) {
